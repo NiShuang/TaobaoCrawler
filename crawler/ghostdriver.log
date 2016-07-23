@@ -1,0 +1,50 @@
+[INFO  - 2016-07-22T06:53:51.086Z] GhostDriver - Main - running on port 61573
+[INFO  - 2016-07-22T06:53:52.247Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":true,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-22T06:53:52.248Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.customHeaders:  - {}
+[INFO  - 2016-07-22T06:53:52.248Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.localToRemoteUrlAccessEnabled":true,"phantomjs.page.settings.resourceTimeout":1000,"phantomjs.page.settings.loadImages":false}
+[INFO  - 2016-07-22T06:53:52.248Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6
+[ERROR - 2016-07-22T06:54:20.902Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170460841
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:21.877Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170461838
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:22.622Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170462583
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:23.354Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170463323
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:24.120Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170464076
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:24.908Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170464863
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:25.808Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170465765
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:27.017Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1469170466982
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:38.955Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.onError - msg: Unhandled promise rejection Error: JSONP request to //equity-vip.tmall.com/liuliangbao/track.do?wfType=8&wfCode=777522&time=20160520110002&_mock_=true& timed out
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:38.955Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.12/index.js,mui/babel-polyfill/6.2.3/index.js,mtb/lib-windvane/2.1.1/windvane.js,hybrid/api/3.0.11/hybrid.min.js,mui/velocity-monitor/3.0.7/index.js,mtb/lib-mtop/1.6.4/mtop.js,mui/datalazyload/3.1.14/index.js,mui/mdv/3.0.0/index.js,mui/mdv/3.0.0/zebra.js,mui/lib/3.0.32/tps.js,tm/detail-m/3.2.6/widgets/atp/index.js,mui/custommodule/3.0.8/index.js:106)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:38.956Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.onError - msg: Unhandled promise rejection Error: JSONP request to //equity-vip.tmall.com/liuliangbao/track.do?wfType=8&wfCode=777522&time=20160520110002&_mock_=true& timed out
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:38.956Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.12/index.js,mui/babel-polyfill/6.2.3/index.js,mtb/lib-windvane/2.1.1/windvane.js,hybrid/api/3.0.11/hybrid.min.js,mui/velocity-monitor/3.0.7/index.js,mtb/lib-mtop/1.6.4/mtop.js,mui/datalazyload/3.1.14/index.js,mui/mdv/3.0.0/index.js,mui/mdv/3.0.0/zebra.js,mui/lib/3.0.32/tps.js,tm/detail-m/3.2.6/widgets/atp/index.js,mui/custommodule/3.0.8/index.js:106)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:38.956Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.onError - msg: Unhandled promise rejection Error: JSONP request to //equity-vip.tmall.com/liuliangbao/track.do?wfType=8&wfCode=777522&time=20160520110002&_mock_=true& timed out
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-22T06:54:38.956Z] Session [0cc9d430-4fd9-11e6-a0a9-5d1cf0a681c6] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/kissy-polyfill/4.0.12/index.js,mui/babel-polyfill/6.2.3/index.js,mtb/lib-windvane/2.1.1/windvane.js,hybrid/api/3.0.11/hybrid.min.js,mui/velocity-monitor/3.0.7/index.js,mtb/lib-mtop/1.6.4/mtop.js,mui/datalazyload/3.1.14/index.js,mui/mdv/3.0.0/index.js,mui/mdv/3.0.0/zebra.js,mui/lib/3.0.32/tps.js,tm/detail-m/3.2.6/widgets/atp/index.js,mui/custommodule/3.0.8/index.js:106)
+
+  phantomjs://platform/console++.js:263 in error
